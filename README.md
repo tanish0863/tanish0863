@@ -8,7 +8,7 @@
 
 ---
 ### 📈 Current Projects
-- **Smart Cart** – IoT-based shopping cart for automated billing  
+- **Smart Cart** – IoT-based shopping cart 
 - **Paper Trading Platform** – Simulated trading system with live stock data and auto-execution  
 
 ---
