@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Tanish 👋  
 
-<!--
-**tanish0863/tanish0863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics and Communication Engineering student** at KLS Gogte Institute of Technology, Belgaum  
+🛒 Currently building a **Smart Cart** project  
+💻 Creator of a **Paper Trading Platform** with live price updates and auto order execution  
+⚙️ Exploring **IoT, Web Development**  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanish-modgekar-1366b2302)
 
-Here are some ideas to get you started:
+---
+### 📈 Current Projects
+- **Smart Cart** – IoT-based shopping cart for automated billing  
+- **Paper Trading Platform** – Simulated trading system with live stock data and auto-execution  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐ *Always learning and building new things.*
